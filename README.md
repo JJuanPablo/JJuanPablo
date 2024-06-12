@@ -13,7 +13,7 @@
 
 ## 📝 Descrição
 
-Olá! Meu nome é Juan e estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas no SENAI. Este é um projeto que estou desenvolvendo para a disciplina de Desenvolvimento Web. O objetivo do projeto é criar uma aplicação web simples que ajude a gerenciar tarefas diárias, proporcionando uma interface intuitiva e fácil de usar. Este projeto me permite aplicar os conceitos que estou aprendendo, como HTML, CSS, JavaScript e Java.
+Olá! Meu nome é Juan e estou no primeiro semestre em Curso Superior de Análise e Desenvolvimento de Sistemas no SENAI. Este é um projeto que estou desenvolvendo para a disciplina de Desenvolvimento Web. O objetivo do projeto é criar uma aplicação web simples que ajude a gerenciar tarefas diárias, proporcionando uma interface intuitiva e fácil de usar. Este projeto me permite aplicar os conceitos que estou aprendendo, como HTML, CSS, JavaScript e Java.
 
 
 #### Tecnologias usadas:
